@@ -1,0 +1,58 @@
+[
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "/Users/ziggybaba/Documents/Project/bookstore/pages/dashboard.vue",
+    "chunkName": "pages/dashboard",
+    "_name": "_4a056696"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/ziggybaba/Documents/Project/bookstore/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_48de3deb"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "/Users/ziggybaba/Documents/Project/bookstore/pages/register.vue",
+    "chunkName": "pages/register",
+    "_name": "_7cd88f11"
+  },
+  {
+    "name": "songs",
+    "path": "/songs",
+    "component": "/Users/ziggybaba/Documents/Project/bookstore/pages/songs/index.vue",
+    "chunkName": "pages/songs/index",
+    "_name": "_056a9efa"
+  },
+  {
+    "name": "songs-edit",
+    "path": "/songs/edit",
+    "component": "/Users/ziggybaba/Documents/Project/bookstore/pages/songs/edit/index.vue",
+    "chunkName": "pages/songs/edit/index",
+    "_name": "_782baba8"
+  },
+  {
+    "name": "songs-posts-edit",
+    "path": "/songs/posts/edit",
+    "component": "/Users/ziggybaba/Documents/Project/bookstore/pages/songs/posts/edit/index.vue",
+    "chunkName": "pages/songs/posts/edit/index",
+    "_name": "_7eeb2ea8"
+  },
+  {
+    "name": "songs-id",
+    "path": "/songs/:id",
+    "component": "/Users/ziggybaba/Documents/Project/bookstore/pages/songs/_id/index.vue",
+    "chunkName": "pages/songs/_id/index",
+    "_name": "_7681d1ee"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/ziggybaba/Documents/Project/bookstore/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7f369ad4"
+  }
+]
